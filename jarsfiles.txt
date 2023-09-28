@@ -1,0 +1,17 @@
+
+Download and install Apache NetBeans from the official website ( https://netbeans.apache.org/download/index.html )
+
+Download GeckoDriver As Well:-
+https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip 
+
+And also install FireFox Browser
+https://www.mozilla.org/en-US/firefox/new/
+
+https://www.selenium.dev/downloads/
+
+JXL JAR
+( https://sourceforge.net/projects/jexcelapi/ )
+
+FIRST DOWNLOAD WebDriverPackageManager.jar
+( https://github.com/bonigarcia/webdrivermanager/releases/download/webdrivermanager-5.4.1/webdrivermanager-5.4.1-fat.jar  )
+
